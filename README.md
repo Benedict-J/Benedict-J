@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benedict-j&label=Profile%20views&color=0e75b6&style=flat" alt="benedict-j" /> </p>
 
-- 🔭 I’m currently working on **Crwn-Clothing**
-
-- 🌱 I’m currently learning **ReactJS, NestJS, and Firebase**
-
-- 💬 Ask me about **React and Vue**
-
 - 📫 How to reach me **benedict.jefferson@rocketmail.com**
 
 <h3 align="left">Connect with me:</h3>
